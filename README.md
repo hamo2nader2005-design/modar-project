@@ -1,3 +1,5 @@
+![Modar Project Cover](./Modar%20SaaS%20Dashboard%20Hero%20Banner.png)
+
 # Modar | مُدار
 
 Modar is a B2B SaaS platform designed to help small and medium businesses manage customer communication, sales, bookings, and team performance from one place.
